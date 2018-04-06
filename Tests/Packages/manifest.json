@@ -1,0 +1,10 @@
+{
+
+	"dependencies": {
+		"com.unity.entities":"0.0.11",
+		"com.unity.performancetesting": "0.1.8-experimental"
+      },
+      "testables": [
+            "com.unity.performancetesting"],
+	"registry":"https://staging-packages.unity.com"
+}

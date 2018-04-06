@@ -1,0 +1,10 @@
+{
+    "name": "Tests",
+    "references": ["Unity.PerformanceTesting", "Unity.Entities", "Unity.Jobs", "Unity.Collections"],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
